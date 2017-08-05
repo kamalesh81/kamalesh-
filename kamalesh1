@@ -1,5 +1,0 @@
-a=23
-for a >=25:
-print "true "
-else;
-print "false"
